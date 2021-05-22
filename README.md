@@ -1,1 +1,3 @@
 # Mycodes
+git add.*
+
